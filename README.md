@@ -48,7 +48,7 @@
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 |[Live Link](https://flag-iota.vercel.app/)| React Async, Await and Fetch| [Search Flags with API](https://github.com/ahmeetseker/flag)
-|[Live Link](https://react-langue-card.vercel.app/)|React ,Next js|[react langue card](https://github.com/mehmettas1/Profile-card-componet)
+|[Live Link](https://react-langue-card.vercel.app/)|React ,Next js|[react langue card](https://github.com/ahmeetseker/react-langue-card)
 |[Live Link](https://weatherapp-xi-lyart.vercel.app/)|React , Axios |[Weatherapp](https://github.com/ahmeetseker/weatherapp)
 |[Live Link](https://todo-psi-blue.vercel.app/)|React Todo|[Todo](https://github.com/ahmeetseker/todo)
 |[Live Link](https://my-app-ten-pied.vercel.app/)|React & Three JS|[My-App](https://github.com/ahmeetseker/my-app)
