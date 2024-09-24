@@ -52,7 +52,7 @@
 |[Live Link](https://weatherapp-xi-lyart.vercel.app/)|React , Axios |[Weatherapp](https://github.com/ahmeetseker/weatherapp)
 |[Live Link](https://todo-psi-blue.vercel.app/)|React Todo|[Todo](https://github.com/ahmeetseker/todo)
 |[Live Link](https://my-app-ten-pied.vercel.app/)|React & Three JS|[My-App](https://github.com/ahmeetseker/my-app)
-|[Live Link](https://ahmeetseker.github.io/apewar.com/apewar/index.html)| HTML, CSS JS|[Apewar](https://github.com/mehmettas1/Find-the-Number-Game)
+|[Live Link](https://ahmeetseker.github.io/apewar.com/apewar/index.html)| HTML, CSS JS|[Apewar]()
 
 
 
